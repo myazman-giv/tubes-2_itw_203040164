@@ -1,0 +1,23 @@
+.jumbotron {
+	padding: 230px;
+	background-image: url('assets/img/1.jpg');
+	background-size: cover;
+	background-position: 0 -200px;
+}
+
+.jumbotron .display-4 {
+	font-size: 40px;
+	color: #000000;
+}
+
+.jumbotron .leads {
+	color: #000000;
+}
+
+hr {
+	border-top: 5px #eaeaea;
+}
+
+.text_center {
+	margin-left: 480px
+}
